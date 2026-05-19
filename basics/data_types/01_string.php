@@ -24,5 +24,9 @@ echo "The full name is $fullName.";
  $city = "Dhaka";
 
  var_dump($city);
+
+ $city = NULL;
+
+ var_dump($city);
  
 ?>

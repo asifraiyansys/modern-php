@@ -12,4 +12,6 @@
     $fourthCity = $cities[3];
     echo "The fourth city is $fourthCity.";
     echo "\n";
+    $cities = NULL;
+    var_dump($cities);
 ?>
