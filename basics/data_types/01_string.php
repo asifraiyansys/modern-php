@@ -28,5 +28,12 @@ echo "The full name is $fullName.";
  $city = NULL;
 
  var_dump($city);
+
+ $cityName = "Dhaka";
+ $countryName = 'Bangladesh';
+    echo "I live in $cityName, $countryName.\n"; 
+    echo 'The city name is: '.$cityName;
+    echo "\n";
+    echo  "the country name is: ".$countryName."\n";
  
 ?>
