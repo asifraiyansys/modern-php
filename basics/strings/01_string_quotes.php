@@ -9,5 +9,6 @@
     echo 'The city name is: '.$cityName;
     echo "\n";
     echo  "the country name is: ".$countryName."\n";
- 
+    echo  'My home town $cityName';
+
 ?>
